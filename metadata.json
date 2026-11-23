@@ -1,0 +1,6 @@
+{
+  "name": "KidHero HQ",
+  "description": "Calm, step-by-step problem-solving guides, daily life-skill missions, and parent-configured emergency cards designed for children ages 6–12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
